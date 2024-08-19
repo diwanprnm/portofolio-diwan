@@ -1,0 +1,36 @@
+footer {
+    background-color: #015de7;
+    text-align: center;
+   
+  }
+
+  .footerweb{
+    line-height: 100px;
+    color: #fff;
+    letter-spacing: 5px;
+  }
+  .contact > ul {
+    display:contents;
+    list-style-type: none;
+  }
+
+  .contact {
+    color: #ffffff;
+    gap: 20px;
+  }
+
+  .contact > a {
+    background-color: #222831;
+    color: #fff;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+a > svg {
+    height: 30px;
+    width: auto;
+  }
+  
